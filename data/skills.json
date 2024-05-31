@@ -1,32 +1,38 @@
 [
-    {
-        "image": "html-css.jpg",
-        "title": "HTML - CSS",
-        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
-    },
-    {
-        "image": "js.jpg",
-        "title": "javascript",
-        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
-    },
-    {
-        "image": "react.jpg",
-        "title": "React",
-        "text": "Création d’applications React, création de composants et manipulation de leur état"
-    },
-    {
-        "image": "gestion-de-projet.png",
-        "title": "Gestion de projet",
-        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
-    },
-    {
-        "image": "optimisation-et-debug.png",
-        "title": "Optimisation et debug",
-        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
-    },
-    {
-        "image": "test.png",
-        "title": "Test",
-        "title ": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
-    }
+  {
+    "image": "html-css.webp",
+    "title": "HTML - CSS",
+    "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
+    "link": "https://github.com/ineschak/Creez-la-page-d-accueil-d-une-agence-de-voyage-avec-HTML-CSS"
+  },
+  {
+    "image": "js.webp",
+    "title": "javascript",
+    "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires",
+    "link": "https://github.com/ineschak/Creez-une-page-web-dynamique-avec-JavaScript"
+  },
+  {
+    "image": "react.webp",
+    "title": "React",
+    "text": "Création d’applications React, création de composants et manipulation de leur état",
+    "link": "https://github.com/ineschak/Creez-une-application-web-de-location-immobiliere-avec-React"
+  },
+  {
+    "image": "gestion-de-projet.webp",
+    "title": "Gestion de projet",
+    "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet",
+    "link": "https://github.com/ineschak/Planifiez-le-developpement-du-site-de-votre-client"
+  },
+  {
+    "image": "optimisation-et-debug.webp",
+    "title": "Optimisation et debug",
+    "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne",
+    "link": "https://github.com/ineschak/Creez-et-publiez-votre-portfolio-de-testeur-logiciel"
+  },
+  {
+    "image": "test.webp",
+    "title": "Test",
+    "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API",
+    "link": "https://github.com/ineschak/Automatisez-des-tests-pour-une-boutique-en-ligne"
+  }
 ]

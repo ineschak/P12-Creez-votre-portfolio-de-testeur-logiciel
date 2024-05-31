@@ -1,20 +1,38 @@
 [
-    {
-        "image": "image1.png",
-        "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
-    },
-    {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
-    },
-    {
-        "image": "image3.png",
-        "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
-    }
+  {
+    "image": "image1.webp",
+    "title": "Booki",
+    "text": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
+    "link": "https://ineschak.github.io/Creez-la-page-d-accueil-d-une-agence-de-voyage-avec-HTML-CSS/"
+  },
+  {
+    "image": "EcoBlissBath.webp",
+    "title": "EcoBlissBath",
+    "text": "Automatisez des tests pour une boutique en ligne avec Cypress",
+    "link": "https://github.com/ineschak/Automatisez-des-tests-pour-une-boutique-en-ligne/"
+  },
+  {
+    "image": "image3.webp",
+    "title": "Kasa",
+    "text": "Créez une application web de location immobilière avec React",
+    "link": "https://github.com/ineschak/Creez-une-application-web-de-location-immobiliere-avec-React"
+  },
+  {
+    "image": "724events.webp",
+    "title": "724events",
+    "text": "Menez une campagne de tests",
+    "link": "https://github.com/ineschak/Menez-une-campagne-de-tests/tree/main"
+  },
+  {
+    "image": "Tomsen.webp",
+    "title": "Tomsen",
+    "text": "Concevez une stratégie de test",
+    "link": "https://github.com/ineschak/Concevez-une-strategie-de-test"
+  },
+  {
+    "image": "Sophie.webp",
+    "title": "SophieBluel",
+    "text": "Créez une page web dynamique avec JavaScript",
+    "link": "https://github.com/ineschak/Creez-une-page-web-dynamique-avec-JavaScript"
+  }
 ]
